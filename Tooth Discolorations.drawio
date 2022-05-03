@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T20:16:35.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AODH-E416CDa_OBCD8ce" version="17.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-03T20:23:55.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RhR5YVdQNkDTI1kFTvzP" version="17.5.0" type="github" pages="2">
   <diagram id="ynY3r5JYlk6WKdW9Yk7H" name="Colors">
     <mxGraphModel dx="3200" dy="2187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -659,7 +659,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="urzAIMmzN7YVRVRs21HC" name="Etiology">
-    <mxGraphModel dx="2585" dy="2558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,10 +707,10 @@
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-1" value="Diet" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MGfKmaFsQ_67JQ5YpV7V-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-2" target="MGfKmaFsQ_67JQ5YpV7V-15">
+        <mxCell id="MGfKmaFsQ_67JQ5YpV7V-16" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-2" target="MGfKmaFsQ_67JQ5YpV7V-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MGfKmaFsQ_67JQ5YpV7V-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-2" target="MGfKmaFsQ_67JQ5YpV7V-20">
+        <mxCell id="MGfKmaFsQ_67JQ5YpV7V-22" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;rounded=1;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-2" target="MGfKmaFsQ_67JQ5YpV7V-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-2" value="Oral &lt;br&gt;Hygiene" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
@@ -725,11 +725,12 @@
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-3" value="Habits" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MGfKmaFsQ_67JQ5YpV7V-42" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;fontColor=#FFFFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=1;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-4" target="MGfKmaFsQ_67JQ5YpV7V-40">
+        <mxCell id="MGfKmaFsQ_67JQ5YpV7V-42" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;fontColor=#FFFFFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;rounded=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="588" y="80" as="sourcePoint" />
+            <mxPoint x="589" y="-200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="588" y="-70" />
-              <mxPoint x="520" y="-70" />
+              <mxPoint x="588" y="-160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -761,25 +762,25 @@
           <mxGeometry x="100" y="250" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-13" value="Brown&lt;br&gt;Black" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-15" target="MGfKmaFsQ_67JQ5YpV7V-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-15" value="Dental plaque, Calculus, food particles" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="120" width="150" height="40" as="geometry" />
+          <mxGeometry x="230" y="40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-17" value="Yellow&lt;br&gt;Brown" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-19" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;" edge="1" source="MGfKmaFsQ_67JQ5YpV7V-20" target="MGfKmaFsQ_67JQ5YpV7V-21" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-20" value="Chromogenic bacteria" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="150" height="40" as="geometry" />
+          <mxGeometry x="230" y="-40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-21" value="Brown/Black&lt;br&gt;Green/Yellow" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="-40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-23" target="MGfKmaFsQ_67JQ5YpV7V-27">
           <mxGeometry relative="1" as="geometry" />
@@ -803,19 +804,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-33" value="Systemic antibiotics&lt;br&gt;e.g. Minocycline" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-120" width="150" height="40" as="geometry" />
+          <mxGeometry x="230" y="-160" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-99" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-34" target="MGfKmaFsQ_67JQ5YpV7V-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-34" value="Essential Oils&lt;br&gt;Phenolic mouthrinse" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-200" width="150" height="40" as="geometry" />
+          <mxGeometry x="230" y="-240" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-98" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-35" target="MGfKmaFsQ_67JQ5YpV7V-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-35" value="Cationic antiseptics&lt;br&gt;e.g. chlorhexidine" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-280" width="150" height="40" as="geometry" />
+          <mxGeometry x="230" y="-320" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#FFFFFF;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-40" target="MGfKmaFsQ_67JQ5YpV7V-34">
           <mxGeometry relative="1" as="geometry" />
@@ -827,7 +828,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-40" value="Direct &lt;br&gt;Stains" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-200" width="80" height="40" as="geometry" />
+          <mxGeometry x="548" y="-240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-72" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#FFFFFF;rounded=1;" edge="1" parent="1" source="MGfKmaFsQ_67JQ5YpV7V-41" target="MGfKmaFsQ_67JQ5YpV7V-59">
           <mxGeometry relative="1" as="geometry" />
@@ -845,16 +846,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-41" value="Indirect Stains" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-260" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="-240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-48" value="Yellow-&lt;br&gt;Brown" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-280" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="-320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-49" value="Yellow" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-200" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="-240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-50" value="Green-&lt;br&gt;Grey" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-120" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="-160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MGfKmaFsQ_67JQ5YpV7V-54" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;" edge="1" source="MGfKmaFsQ_67JQ5YpV7V-55" target="MGfKmaFsQ_67JQ5YpV7V-65" parent="1">
           <mxGeometry relative="1" as="geometry" />
